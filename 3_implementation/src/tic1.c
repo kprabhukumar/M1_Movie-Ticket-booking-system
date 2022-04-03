@@ -12,7 +12,7 @@ void show1(int choice,char name[10],int id1,int price)
         printf("\t******************\n");
         printf("\t Booking ID : %d \t\t\tShow Name : Harry Potter-7\n",id1);
         printf("\t Customer  : %s\n",name);
-        printf("\t\t\t                              Date      : 07-05-2019\n");
+        printf("\t\t\t                              Date      : 23-03-2022\n");
         printf("\t                                              Time      : 07:00pm\n");
         printf("\t                                              Hall      : 02\n");
         printf("\t                                              seats No. : %d  \n",choice);
